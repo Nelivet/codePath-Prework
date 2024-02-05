@@ -20,7 +20,6 @@ The following **required** functionality is completed:
 
 <div>
     <a href="https://www.loom.com/share/6680d50424a94688860104121a22725e">
-     
     </a>
     <a href="https://www.loom.com/share/6680d50424a94688860104121a22725e">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6680d50424a94688860104121a22725e-with-play.gif">
